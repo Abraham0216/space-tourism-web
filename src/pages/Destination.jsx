@@ -83,7 +83,7 @@ const Destination = () => {
             <div className='flex flex-col justify-center lg:justify-start items-center lg:items-start px-2'>
               <div className='lg:text-left flex flex-col justify-center items-center lg:items-start'>
                 <h2 className='text-6xl  md:text-[80px] lg:text-[100px] leading-[91px] pt-10 lg:pt-0 xl:pt-14'>{planetName}</h2>
-                <p className='md:w-[573px] lg:w-[444px] md:h-[84]  lg:pt-6 lg:text-[18px] lg:leading-8 lg:text-left '>
+                <p className='md:w-[573px] text-center  lg:w-[444px] md:h-[84]  lg:pt-6 lg:text-[18px] lg:leading-8 lg:text-left '>
                   {planetDesc}
                 </p>
               </div>

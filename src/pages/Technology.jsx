@@ -76,7 +76,7 @@ const Technology = () => {
           <div className='flex flex-col lg:mt-14  lg:mb-11 justify-center lg:justify-start lg:items-start lg:relative lg:left-4  items-center  mb-5 md:w-[458px] md:h-[237px] lg:h-[300px] lg:w-[470px]'>
             <p className='text-sm lg:text-base leading-5 opacity-50'>THE TERMINOLOGY...</p>
             <h2 className='text-2xl md:text-[40px] lg:text-[56px] lg:leading-7 leading-7 md:leading-[45px] pt-2 lg:mt-6'>{planetName}</h2>
-            <p className='min-w-80 h-44 lg:leading-8  lg:w-[444px] lg:text-[18px] px-6 lg:px-0  pt-4 lg:mt-8'>
+            <p className='min-w-80 h-44 lg:leading-8 text-center lg:text-left lg:w-[444px] lg:text-[18px] px-6 lg:px-0  pt-4 lg:mt-8'>
               {planetDesc}
             </p>
           </div>

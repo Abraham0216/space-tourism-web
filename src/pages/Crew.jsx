@@ -78,7 +78,7 @@ const Crew = () => {
           <div className='lg:w-full flex flex-col justify-center lg:justify-start lg:items-start items-center md:justify-start    mb-8  md:mb-0 lg:mt-[48px] md:min-w-full md:h-[232px]'>
             <p className='text-base md:text-2xl lg:text-[32px] lg:mb-7 leading-5 md:leading-7 opacity-50'>{job}</p>
             <h2 className='text-2xl md:text-[40px] lg:text-[56px] lg:leading-7 md:leading-[45px] lg:mb-9 pt-2'>{planetName}</h2>
-            <p className='px-6  pt-4 md:px-0 md:max-w-[520px] md:h-[84px] leading-7 lg:leading-8  lg:w-[444px] lg:text-[18px]'>
+            <p className='px-6  pt-4 md:px-0 md:max-w-[520px] md:h-[84px] leading-7 lg:leading-8 lg:text-left text-center  lg:w-[444px] lg:text-[18px]'>
               {planetDesc}
             </p>
           </div>
